@@ -121,3 +121,4 @@ server.listen(PORT, () => console.log(`Server listens at port ${PORT}`));
 //check in the terminal (heroku --version) ($env:PATH += ";C:\Program Files\Heroku\bin")
 //heroku login
 //include files you don't want push in .gitignore
+//git init git add . git commit -m "Initial commit" heroku
